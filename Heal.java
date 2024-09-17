@@ -20,7 +20,7 @@ public class Heal extends Actor
         
         int randomX = Greenfoot.getRandomNumber(world.getWidth());
         int y = 355;
-        if (points % 2 == 0 && points > 0) {
+        if (points % 10 == 0 && points > 0) {
             world.addObject(this, randomX, y);
             existHeal = true;
         }
