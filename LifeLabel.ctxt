@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LifeLabel
+comment1.params=
+comment1.target=LifeLabel()
+comment2.params=life
+comment2.target=void\ updateLife(int)
+numComments=3

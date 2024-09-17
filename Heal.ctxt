@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Heal
+comment1.params=world
+comment1.target=Heal(greenfoot.World)
+comment2.params=
+comment2.target=int\ amountHeal()
+comment3.params=points
+comment3.target=void\ spawnHeal(int)
+comment4.params=
+comment4.target=void\ removeHeal()
+comment5.params=
+comment5.target=boolean\ isExistHeal()
+numComments=6

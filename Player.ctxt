@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkLife()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ checkColisionWithHeal()
+numComments=6
