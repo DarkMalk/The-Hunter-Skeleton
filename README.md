@@ -1,6 +1,10 @@
 # Game
 
-The first game with Greenfoot with Java.
+Proyecto de taller de videjuegos en instituto Inacap, utilizando Greenfoot.
+
+# Preview Game
+
+![Preview Game](./preview/preview-the-hunter-skeleton.webp)
 
 ## Controls
 
